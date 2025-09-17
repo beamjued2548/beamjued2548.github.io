@@ -1,10 +1,10 @@
-\documentclass{article} 
-
-\usepackage{graphicx} 
-
-\begin{document} 
-
-Hello Nutthapol Bovaree
-\includegraphics[scale=0.65]{plot-data.png} 
-
-\end{document} 
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Hello Page</title>
+  </head>
+  <body>
+    <h1>Hello Nutthapol Bovaree</h1>
+  </body>
+</html>
