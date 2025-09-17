@@ -1,1 +1,10 @@
-# beamjued2548.github.io
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Hello Page</title>
+  </head>
+  <body>
+    <h1>Hello Beamjued2548</h1>
+  </body>
+</html>
